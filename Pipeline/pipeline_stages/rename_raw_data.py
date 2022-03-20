@@ -1,3 +1,5 @@
+# to do:
+# add this to pipeline
 import os
 from pipeline_stages.globals import *
 
